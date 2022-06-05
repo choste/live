@@ -1,0 +1,6 @@
+dependencies:
+- name: express
+  repository: oci://us-central1-docker.pkg.dev/bazel-352318/quickstart-helm-repo
+  version: 0.0.0
+digest: sha256:fafcb1e7d94c64e1831c507f88e2bf46b737d76901424c6778132d5efba05e94
+generated: "2022-06-05T12:38:04.676460857-07:00"

@@ -1,0 +1,7 @@
+apiVersion: v2
+name: express
+version: 0.0.0
+dependencies:
+  - name: express
+    version: 0.0.0
+    repository: oci://us-central1-docker.pkg.dev/bazel-352318/quickstart-helm-repo
